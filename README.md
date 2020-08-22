@@ -14,7 +14,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Skilled in Software Development, As Well As Basic Data Science, Machine Learning Knowledge. Strong professional with a Google Cloud Professional Certification.
+Skilled in Software Development, As Well As Basic Data Science Knowledge. Strong professional with a Google Cloud Professional Certification.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
