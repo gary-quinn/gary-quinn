@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thach</h1>
+<h1 align="center">Hi 👋</h1>
 <p align="center">
 <a href="https://github.com/huynhthienthach/huynhthienthach/blob/master/LICENSE">
 <img alt="Licence" src="https://img.shields.io/github/license/huynhthienthach/huynhthienthach?color=brightgreen"/>
