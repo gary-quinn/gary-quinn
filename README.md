@@ -21,10 +21,6 @@ Skilled in Software Development, As Well As Basic Data Science Knowledge. Strong
 ---
 
 ## 📈 **Github Stats:**
-
-<a href="https://github.com/huynhthienthach">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=huynhthienthach&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a>
 <a href="https://github.com/huynhthienthach/github-readme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huynhthienthach&layout=compact&theme=blue-green" />
 </a>
