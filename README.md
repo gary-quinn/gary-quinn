@@ -37,11 +37,6 @@ Skilled in Software Development. Strong professional with a Google Cloud Profess
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
-
-- 👨‍💻 All of my projects are available at [Projects](https://huynhthienthach.com/projects/)
-
-- 📝 I regulary write articles on [My Blog](https://huynhthienthach.com)
-
 - 📫 How to reach me **hi@huynhthienthach.com**
 
 
