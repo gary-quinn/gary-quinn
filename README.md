@@ -15,8 +15,7 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - Experienced Full Stack Developer
-- Vim User
-- Coder
+- Vim lover
 
 ### &nbsp; &nbsp; &nbsp; &nbsp;
 
