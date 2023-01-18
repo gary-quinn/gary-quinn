@@ -17,10 +17,6 @@
 - Experienced Full Stack Developer
 - Vim lover
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhthienthach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### &nbsp; &nbsp; &nbsp; &nbsp;
-
 ---
 
 ## 🛠️ **Languages & Tools:**
