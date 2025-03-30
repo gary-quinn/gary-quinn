@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋</h1>
 <p align="center">
-<a href="https://github.com/gary-quinn/gary-quinn/blob/master/LICENSE">
-<img alt="Licence" src="https://img.shields.io/github/license/gary-quinn/gary-quinn?color=brightgreen"/>
-</a>
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=gary-quinn&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/gary-quinn/gary-quinn?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <a href="https://github.com/gary-quinn/gary-quinn/actions">
-  </a>
-</p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
